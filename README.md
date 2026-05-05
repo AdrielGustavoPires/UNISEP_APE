@@ -1,2 +1,2 @@
 # UNISEP_APE
-Disiplina de Algoritimos Programação Estruturada
+Diciplina de Algoritimos Programação Estruturada
